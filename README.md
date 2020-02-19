@@ -24,7 +24,7 @@ A step by step series of examples that tell you how to get a development env run
 
 a)For Windows
 ```
-<a href="https://www.python.org/downloads/windows/">Python for Windows</a>
+[Python for Windows](https://www.python.org/downloads/windows/)
 ```
 a)For Mac OS X
 ```
