@@ -23,8 +23,9 @@ A step by step series of examples that tell you how to get a development env run
 1) First, check your version Python, if you don't have installed, you can download from this website: 
 
 a)For Windows
-```
 [Python for Windows](https://www.python.org/downloads/windows/)
+```
+
 ```
 a)For Mac OS X
 ```
